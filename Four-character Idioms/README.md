@@ -10,7 +10,7 @@
 
 # 🎯 참고 데이터셋
 
-Xuhui Zhou, Yue Zhang, Leyang Cui, Dandan Huang(2019)의 Evaluating Commonsense in Pre-trained Language Models에서 
+Xuhui Zhou, Yue Zhang, Leyang Cui, Dandan Huang의 Evaluating Commonsense in Pre-trained Language Models(2019)에서 
 구축한 상식 평가 데이터셋과 유사하게 만들되 사자성어를 상식의 기준으로 삼았습니다.
 
 1. conjuction_ability.csv : 두 문장의 연결과 관련하여 접속사가 제대로 쓰였는지 평가
